@@ -10,14 +10,6 @@ A modern food ordering and delivery application built with React and Vite, featu
 - **Vite** - Next generation frontend build tool
 - **ESLint** - Code quality and consistency
 
-## Features
-
-- ⚡ Lightning-fast HMR (Hot Module Replacement)
-- 🔍 ESLint rules for code quality
-- 🚀 Optimized production builds
-- 📦 Minimal setup and configuration
-- 🍔 Food ordering and delivery functionality
-
 ## Getting Started
 
 ### Prerequisites
