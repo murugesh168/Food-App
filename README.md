@@ -1,16 +1,44 @@
-# React + Vite
+# Food-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern food ordering and delivery application built with React and Vite, featuring fast development experience and optimized build performance.
 
-Currently, two official plugins are available:
+**Live Demo:** [foodapp-r.netlify.app](https://foodapp-r.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
 
-## React Compiler
+- **React** - UI library for building user interfaces
+- **Vite** - Next generation frontend build tool
+- **ESLint** - Code quality and consistency
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- ⚡ Lightning-fast HMR (Hot Module Replacement)
+- 🔍 ESLint rules for code quality
+- 🚀 Optimized production builds
+- 📦 Minimal setup and configuration
+- 🍔 Food ordering and delivery functionality
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/murugesh168/Food-App.git
+cd Food-App
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+---
